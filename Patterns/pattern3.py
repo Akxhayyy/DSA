@@ -6,9 +6,6 @@
 1 2 3 4 5 
 """ 
 
-
-
-
 class solution:
     def pattern(self,N):
         for i in range(1, N+1):
